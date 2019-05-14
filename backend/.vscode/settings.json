@@ -1,7 +1,9 @@
 {
-    "python.pythonPath": "env/bin/python",
+    "python.pythonPath": "/home/tangjan/softwares/Python/bin/python",
     "python.linting.pylintArgs": [
         "--load-plugins",
         "pylint_django"
-    ]
+    ],
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
 }
