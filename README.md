@@ -18,7 +18,7 @@
 ## 相关演示
 
 + 增加待办事件
-![picture 1](https://github.com/JackTang816/todolist-v2/blob/master/creat.gif "增加待办事件")
+![picture 1](https://github.com/JackTang816/todolist-v2/blob/master/create.gif "增加待办事件")
 
 + 删除待办事件
 ![picture 2](https://github.com/JackTang816/todolist-v2/blob/master/delete.gif "删除待办事件")
