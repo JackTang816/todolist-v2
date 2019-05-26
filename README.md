@@ -1,4 +1,4 @@
-# 九章算法 Pre-work - Todo List 项目
+# Todo List 项目
 ## Todolist-0.1.1
 ---
 
